@@ -7,9 +7,9 @@ A **local RAG (Retrieval-Augmented Generation)** chatbot that answers questions 
 4. Conversational Interface: Interactive Q&A with streaming responses
 
 **Primary Components in simple terms:**
-1. Embeddings:
-2. Vector DB:
-3. LLM:
+1. Embeddings: Convert text into numerical features (vectors).
+2. Vector DB: Database where the stored vectors are organised and searched. 
+3. LLM: Generates human like response with help of the questions asked and the answer found.
 
 **Technical Stack used:**
 1. Framework: LangChain
