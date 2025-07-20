@@ -28,3 +28,8 @@ A **local RAG (Retrieval-Augmented Generation)** chatbot that answers questions 
 1. **Limited RAM:** Used quantized Zephyr-7B (4-bit) and small embeddings.
 2. **Ollama connectivity issues:** Switched to fully local CTransformers backend.
 3. **PDF parsing complexity:** Implemented recursive text splitting with overlaps.
+
+**Real-World Applications:**
+1. **Internal Knowledge Base:** For companies with sensitive documents.
+2. **Academic Research Helper:** Quickly query research papers.
+3. **Customer Support:** Answer from product manuals
