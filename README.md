@@ -1,6 +1,6 @@
 A **local RAG (Retrieval-Augmented Generation)** chatbot that answers questions based on custom documents (PDFs) without needing an internet connection. 
 
-**Key features:**
+**Key Features:**
 1. 100% Local Execution: Runs entirely on your machine (CPU-only)
 2. Document Intelligence: Reads and understands PDF files
 3. Memory Efficient: Optimized for 8GB RAM systems
