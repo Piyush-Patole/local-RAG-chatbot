@@ -19,6 +19,7 @@ A **local RAG (Retrieval-Augmented Generation)** chatbot that answers questions 
 5. Document Loader: PyPDFLoader
 
 **Working (Step-by-Step):**
+
 **A. Document Processing Pipeline:**
 1. Loading: Scans docs/ folder for PDFs using DirectoryLoader. Extracts text with PyPDFLoader.
 2. Chunking: Splits documents into 300-character segments with 50-character overlaps. Uses RecursiveCharacterTextSplitter to preserve context.
