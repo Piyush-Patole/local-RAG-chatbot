@@ -59,5 +59,6 @@ A **local RAG (Retrieval-Augmented Generation)** chatbot that answers questions 
 3. Customer Support: Answer from product manuals
 
 **Skills and concepts learned:**
+
 **AI/ML**: RAG architectures, LLM quantization, prompt engineering  
 **Tools**: LangChain, ChromaDB, HuggingFace Transformers
