@@ -6,6 +6,12 @@ A **local RAG (Retrieval-Augmented Generation)** chatbot that answers questions 
 3. Memory Efficient: Optimized for 8GB RAM systems
 4. Conversational Interface: Interactive Q&A with streaming responses
 
+**Screenshots:**
+<img width="1574" height="386" alt="image" src="https://github.com/user-attachments/assets/612c9610-748c-4077-8c63-b3aa3a0a6ac4" />
+<img width="1575" height="356" alt="image" src="https://github.com/user-attachments/assets/3a3e95a1-fba2-448e-8933-77fa586c95b1" />
+<img width="1566" height="825" alt="image" src="https://github.com/user-attachments/assets/615ce19b-e350-40ca-b11e-19c6a7aa1003" />
+
+
 **Primary Components in simple terms:**
 1. Embeddings: Convert text into numerical features (vectors).
 2. Vector DB: Database where the stored vectors are organised and searched. 
